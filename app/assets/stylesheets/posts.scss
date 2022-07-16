@@ -1,0 +1,42 @@
+.background{
+ background-color: lightgray;
+ padding-top: 10px;
+}
+
+.parent{
+ background-color: gray; 
+ height: 60px;
+ width: 800px;
+ padding: 15px 10px 15px 32px;
+ margin: 10px auto;
+}
+
+.child{
+ background-color: white;
+ padding: 10px;
+ height: 100%;
+ width: 830px;
+ margin: 30px 10px 10px 625px;
+ }
+
+.post{
+ background-color: lightgray;
+ border: 1px solid;
+ padding: 20px;
+ width: 700px;
+ margin: 10px 3px 5px 50px;
+ }
+
+.input-content{
+  height: 30px;
+  width: 600px;
+  padding: 10px 0 0 20px;
+  margin: 10px 10px 10px 20px;
+}
+
+.posts-button{
+  background-color: yellow;
+  width: 100px;
+  height: 40px;
+  margin: 10px 20px 5px 5px;
+}
